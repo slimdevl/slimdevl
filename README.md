@@ -1,4 +1,4 @@
-<img src="nametag.png" alt="SlimDevl" height="400">
+<img src="nametag.png" alt="SlimDevl" height="300">
 
 <!---
 - 👋 Hi, I’m @slimdevl
