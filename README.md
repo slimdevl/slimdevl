@@ -1,4 +1,5 @@
-![image](nametag.png)
+<img src="nametag.png" alt="SlimDevl" height="400">
+
 <!---
 - 👋 Hi, I’m @slimdevl
 - 👀 I’m interested in ...
